@@ -1,0 +1,56 @@
+
+    <div style="background-image: url('/assets/images/wall.jpg');  background-size: cover;
+background-position: center center;
+opacity: 0.8; 
+height: 100vh;">
+ <h1 class="text-center " style="padding-top: 5%; position: absolute; top:10px; left: 46%;" >Recive Now</h1>
+    <div class="container rigister">
+        
+        <form [formGroup]="form" (ngSubmit)="onSubmit()">
+            <div class="row">
+              <div class="col-md-6 my-3">
+                <label for="name" class="font-weight-bold"><h5>Name</h5></label>
+                <input type="text" id="name" class="form-control" formControlName="name"[(ngModel)]="formdata.name">
+                <div *ngIf="name?.invalid && (name?.dirty ||name?.touched)" class="text-danger">
+                  <div *ngIf="name?.errors?.['required']">Name is required.</div>
+                </div>
+                
+                <label for="phone" class="font-weight-bold"><h5>Phone</h5></label>
+                <input type="text" id="phone" class="form-control" formControlName="phone" [(ngModel)]="formdata.phone">
+                
+                <div *ngIf="phone?.invalid && phone?.touched" class="text-danger" >
+                  <div *ngIf="phone?.errors?.['required']">Phone is required.</div>
+                  <div *ngIf="phone?.errors?.['pattern']">Phone must be 11 digits.</div>
+                </div>
+                <label for="email" class="font-weight-bold"><h5>Email</h5></label>
+          
+          <input type="email" id="email" class="form-control" formControlName="email" [(ngModel)]="formdata.email">
+          
+          <div *ngIf="email?.touched" class="text-danger">
+              <div *ngIf="email?.errors?.['required']">Email is required.</div>
+            
+              <div *ngIf="email?.errors?.['invalidEmail'] &&email?.errors?.['email'] && !email?.errors?.['required']">Email format invalid.</div>
+          </div>
+          
+          <label for="address" class="font-weight-bold"><h5>Address</h5></label>
+          <input type="text" id="address" class="form-control" formControlName="address" [(ngModel)]="formdata.address">
+       
+          <div *ngIf="address?.invalid && address?.touched" class="text-danger">
+            <div *ngIf="address?.errors?.['required']">Address is required.</div>
+          </div>
+              </div>
+              
+              <div class="col-md-6">
+                <img src="/assets/images/Spicial.png" alt="Special Dish" class="img-fluid">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12">
+                <button type="submit" [disabled]="form.invalid" class="btn btn-warning my-5" style="position: absolute; right: 20%;">Confirm</button>
+                <button type="button" class="btn btn-warning my-5" (click)="back()">Back</button>
+              </div>
+            </div>
+          </form>
+          
+    </div>
+    </div>

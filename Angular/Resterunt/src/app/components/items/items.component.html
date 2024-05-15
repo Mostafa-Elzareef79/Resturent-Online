@@ -1,0 +1,36 @@
+<div class="background-container">
+  <div style="background-image: url('/assets/images/wall.jpg'); background-size: cover; background-position: center center; opacity: 0.8; height: 100vh;">
+    <div class="container">
+      <div class="border">
+        <div class="row">
+          <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-4" *ngFor="let x of allItems | paginate: { itemsPerPage: pageSize, currentPage: p }">
+            <div class="card m-2 p-2" style="width: 100%;">
+              <img class="card-img-top" src="/assets/images/food.jpg" alt="Card image cap">
+              <div class="form-check">
+                <input class="form-check-input custom-checkbox" type="checkbox" value="" id="checkbox{{x.id}}" 
+                  (change)="onchange($event, x)" [checked]="isChecked(x)">
+                <label class="form-check-label m-1" for="checkbox{{x.id}}">
+                  Add To Cart
+                </label>
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">{{x.name}}</h5>
+                <p class="card-text">{{x.description}}</p>
+                <h3><mark>Price: ${{x.price}}</mark></h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div *ngIf="allItems.length === 0">
+        <h3 class="text-center text-danger py-5">No items available</h3>
+      </div>
+      <div class="d-flex justify-content-center mt-3" *ngIf="allItems.length !== 0" >
+        <pagination-controls (pageChange)="p = $event"></pagination-controls>
+      </div>
+  
+      <a (click)="next()" *ngIf="allItems.length > 0" class="btn btn-warning" style="position: absolute; right: 20%; margin-top: 150px;">Next</a>
+    </div>
+  </div>
+  
+</div>

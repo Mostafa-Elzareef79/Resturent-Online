@@ -1,0 +1,21 @@
+.prod{
+    width: 200px;
+}
+.custom-checkbox {
+    width: 1.5rem; 
+    height: 1.5rem; 
+}
+.background-container {
+    background-image: url('/assets/images/wall.jpg');
+    background-size: cover;
+    background-position: center center;
+    opacity: 0.8;
+    height: 100vh;
+  }
+  
+  @media (max-width: 768px) {
+    .background-container {
+      height: 100%; 
+    }
+  }
+  

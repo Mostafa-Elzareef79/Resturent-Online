@@ -1,0 +1,552 @@
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\appsettings.json
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.exe
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.deps.json
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.runtimeconfig.json
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.pdb
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.AssemblyInfo.cs
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.Resterurnt Delevery online.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.build.Resterurnt Delevery online.props
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Resterurnt Delevery online.props
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Resterurnt Delevery online.props
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\scopedcss\bundle\Resterurnt Delevery online.styles.css
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.csproj.CopyComplete
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\refint\Resterurnt Delevery online.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.pdb
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.genruntimeconfig.cache
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\ref\Resterurnt Delevery online.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Humanizer.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dell\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\appsettings.Development.json
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\appsettings.json
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.exe
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.deps.json
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.runtimeconfig.json
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.pdb
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Azure.Core.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Azure.Identity.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Castle.Core.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Humanizer.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.CodeDom.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.csproj.AssemblyReference.cache
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.GeneratedMSBuildEditorConfig.editorconfig
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.AssemblyInfoInputs.cache
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.AssemblyInfo.cs
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.csproj.CoreCompileInputs.cache
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.MvcApplicationPartsAssemblyInfo.cs
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.MvcApplicationPartsAssemblyInfo.cache
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets.build.json
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets.development.json
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.Resterurnt Delevery online.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.build.Resterurnt Delevery online.props
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Resterurnt Delevery online.props
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Resterurnt Delevery online.props
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\scopedcss\bundle\Resterurnt Delevery online.styles.css
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.csproj.CopyComplete
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\refint\Resterurnt Delevery online.dll
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.pdb
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.genruntimeconfig.cache
+E:\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\ref\Resterurnt Delevery online.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\appsettings.Development.json
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\appsettings.json
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.exe
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.deps.json
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.runtimeconfig.json
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.pdb
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Azure.Core.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Azure.Identity.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Castle.Core.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Humanizer.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.CodeDom.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Memory.Data.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.csproj.AssemblyReference.cache
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.GeneratedMSBuildEditorConfig.editorconfig
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.AssemblyInfoInputs.cache
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.AssemblyInfo.cs
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.csproj.CoreCompileInputs.cache
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.MvcApplicationPartsAssemblyInfo.cs
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.MvcApplicationPartsAssemblyInfo.cache
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets.build.json
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets.development.json
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.Resterurnt Delevery online.Microsoft.AspNetCore.StaticWebAssets.props
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.build.Resterurnt Delevery online.props
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Resterurnt Delevery online.props
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Resterurnt Delevery online.props
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets.pack.json
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\scopedcss\bundle\Resterurnt Delevery online.styles.css
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.csproj.CopyComplete
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\refint\Resterurnt Delevery online.dll
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.pdb
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.genruntimeconfig.cache
+E:\react\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\ref\Resterurnt Delevery online.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\appsettings.json
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.exe
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.deps.json
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.runtimeconfig.json
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Resterurnt Delevery online.pdb
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Humanizer.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.AssemblyInfo.cs
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.Resterurnt Delevery online.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.build.Resterurnt Delevery online.props
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Resterurnt Delevery online.props
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Resterurnt Delevery online.props
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\scopedcss\bundle\Resterurnt Delevery online.styles.css
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterur.BF15FA46.Up2Date
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\refint\Resterurnt Delevery online.dll
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.pdb
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\Resterurnt Delevery online.genruntimeconfig.cache
+C:\Users\pc\Desktop\Job Task\Resterurnt Delevery online\Resterurnt Delevery online\obj\Debug\net8.0\ref\Resterurnt Delevery online.dll

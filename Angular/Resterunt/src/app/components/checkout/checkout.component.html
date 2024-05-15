@@ -1,0 +1,93 @@
+
+<div style="background-image: url('/assets/images/wall.jpg');  background-size: cover;
+background-position: center center;
+opacity: 0.8; 
+height:1veh;  ">
+
+    <div class="container rigister">
+      <h1 class="py-5">Your data</h1>
+      
+<hr style=" height: 5px; background-color: rgb(255, 255, 255); margin-top: -5px; width: 100px; color: black;">
+
+
+<i class="fas fa-user"></i><p class="h5">User: {{formdata.name}}</p>
+<i class="fas fa-phone"></i><p class="h5">Phone: {{formdata.phone}}</p>
+<i class="fas fa-map-marker"></i><p class="h5">Address: {{formdata.address}}</p>
+<i class="fas fa-envelope"></i><p class="h5">Email: {{formdata.email}}</p>
+
+<hr>
+<h1>Shop Card</h1>
+<hr style=" height: 5px; background-color: rgb(255, 255, 255); margin-top: -5px; width: 100px; color: black;">
+<table class="table table-hover">
+    <thead>
+      <tr>
+      
+        <th>product</th>
+        <th>price</th>
+        <th>quantity</th>
+        <th>total</th>
+        <th>remove</th>
+
+
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of checkedItems ; let i = index">
+      
+        <td>{{ item.name }}</td>
+        <td>{{item.price}}</td>
+       
+
+<td>                              
+    <div class="input-group mb-3 d-flex align-items-center quantity-container" style="max-width: 120px;">
+    <div class="input-group-prepend">
+        <a  class="btn btn-outline-black decrease" (click)="decreaseQuantity(i)" type="button">&minus;</a>
+    </div>
+    <input type="text" class="form-control text-center quantity-amount" [value]="item.quantity"  placeholder="" aria-label="Example text with button addon" disabled aria-describedby="button-addon1" >
+    <div class="input-group-append">
+        <a  class="btn btn-outline-black increase" (click)="increaseQuantity(i)" type="button">&plus;</a>
+    </div>
+</div>
+</td>
+
+<td>{{ item.price*item.quantity | number:'1.2-2' }}</td>
+<td>
+  <button class="btn btn-danger" (click)="removeItem(i)">X</button>
+</td>
+       
+      </tr>
+     
+    </tbody>
+  </table>
+
+
+
+
+
+  <hr>
+  <div style="border: 2px dashed;" class="mb-5">
+    <h1>Total </h1>
+    <hr style=" height: 5px; background-color: rgb(255, 255, 255); margin-top: -5px; width: 100px; color: black;">
+    <p class="h4">total price : {{calculateTotalPrice()| number:'1.2-2'}} <span style="color: green;">$</span></p>
+    <hr>
+    <p class="h4">subtotal price : {{calculateTotalPrice()| number:'1.2-2' }} <span style="color: green;">$</span></p>
+    <hr>
+    <div class="row">
+      <div class="col-md-12 ">
+        <button type="button" class="btn btn-warning m-1" (click)="finish()" style="position: absolute; right: 20%;">Check Out</button>
+        <button type="button" class="btn btn-warning m-1" (click)="back()">Back</button>
+      </div>
+    </div>
+   
+
+
+  </div>
+  <br>
+  <br>
+  <br>
+  <br>
+
+</div>
+</div>
+
+

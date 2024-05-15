@@ -1,0 +1,34 @@
+<div class="with-background">
+    <h1 class="text-center heads">Order Food Online Theme The<br> Best Restaurants</h1>
+  
+    <div class="pare">    
+      <div class="input-container">
+        <input type="search" name="search" [(ngModel)]="searchRestaurant" class="form-control mx-2" placeholder="Restaurant name"> 
+        <select [(ngModel)]="selectedCity"  data-mdb-select-init>
+          <option value="" disabled selected>Select City  </option>
+          <option *ngFor="let city of allCities" [value]="city.id">{{ city.name }}</option>
+        </select>
+       
+      
+        <button class="btn btn-danger" (click)="search()" style="margin-right:20px;">Search</button>
+        <button class="btn btn-primary mx-2" style="border-radius: 50px;" (click)="refresh()">refresh</button>
+      </div>
+    </div>
+    <hr>
+    <div *ngIf="NoRestruntHere && allRestaurants.length === 0">
+      <h2 class="text-center text-danger">There are no Restaurants to show here!</h2>
+    </div>
+    <div class="row" style="background-color: bisque; border-radius: 3%;" *ngIf="!NoRestruntHere || allRestaurants.length > 0">
+      <div class="col-12 col-md-4 col-lg-3 m-5" *ngFor="let restaurant of allRestaurants">
+        <div class="card" style="width: 23rem;">
+          <img class="card-img-top" src="/assets/images/food.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">{{ restaurant.name }}</h5>
+            <p class="card-text">{{ restaurant.description }}</p>
+            <button class="btn btn-primary" (click)="goToItems(restaurant.id)">Menu</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

@@ -1,0 +1,42 @@
+.pare .input-container {
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 255, 0);
+   
+    height: 100px;
+}
+
+.pare .input-container input[type="search"],
+.pare .input-container select,
+.pare .input-container input[type="submit"] {
+    margin-right: 10px;
+}
+.pare {
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; /* Adjust the width as needed */
+} .pare input[type="search"],
+.pare .input-group {
+    display: flex;
+    align-items: center; /* Vertically align items */
+}
+
+.pare .input-group input[type="search"],
+.pare .input-group select {
+    flex: 1; /* Take up remaining space */
+    margin-right: 10px; /* Add spacing between input and select */
+}
+.with-background {
+    background-image: url('/assets/images/food.jpg');
+    background-size: cover;
+    background-position: center center;
+    opacity: 0.8; /* Adjust the opacity value as needed */
+    height: 100vh; /* Set the height to 100% of the viewport height */
+}
+.pare {
+    margin-top: 5%;
+}
+.heads{
+    padding-top: 10%;
+}

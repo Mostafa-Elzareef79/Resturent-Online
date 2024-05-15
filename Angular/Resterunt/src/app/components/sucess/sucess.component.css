@@ -1,0 +1,33 @@
+img:hover {
+    transform: scale(1.1);
+  }
+  .container {
+    display: flex;
+    align-items: center;
+  }
+
+  /* Animation for table */
+  @keyframes slideIn {
+    from {
+      transform: translateY(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  .table-hover tbody tr {
+    animation: slideIn 0.5s ease forwards;
+  }
+
+  /* Transformation and animation on hover */
+  .table-hover:hover {
+    transform: scale(1.1); /* Scale the table by 110% */
+  }
+
+  /* Optional: add transition for smoother effect */
+  .table-hover {
+    transition: transform 0.3s ease;
+  }
